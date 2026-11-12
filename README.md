@@ -1,18 +1,27 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Student Enrollment Management System 🎓
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## About Project
+This project is developed using Salesforce to simplify the student enrollment process. It allows students to register, explore universities, colleges, courses, and fee details, and submit enrollment inquiries.
 
-## How Do You Plan to Deploy Your Changes?
+## Features
+- Student registration and login.
+- View university details.
+- Explore available colleges.
+- Browse courses and fee details.
+- Submit student enrollment inquiries.
+- Automated processes using Salesforce Flow.
+- Interactive user interface using Lightning Web Components.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Technologies Used
+- Salesforce
+- Apex
+- Lightning Web Components (LWC)
+- Salesforce Flow
+- SOQL
+- Experience Cloud
 
-## Configure Your Salesforce DX Project
+## Project Objective
+The main objective of this project is to simplify student enrollment by providing a centralized platform to manage student information and course inquiries.
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## Author
+**Hetvi Vaghasiya**
